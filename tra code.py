@@ -72,3 +72,14 @@ STT = pipeline("automatic-speech-recognition")
 x = STT("speech0555.mp3")
 print(x)
 
+
+
+serhstrh
+srrth
+srth
+rsth
+srth
+srtj
+sty
+j
+sty
